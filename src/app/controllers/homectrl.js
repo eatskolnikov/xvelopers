@@ -14,7 +14,7 @@ app.controller("HomeCtrl", ["$scope", "$rootScope", "$window", "$sce", function(
     },
     {
       name: "ClaudioX Sanchez",
-      description: "Tiene tanto dinero que la cantidad necesaria para contarlo requiere dos <a href='https://goo.gl/sWTkHd'>bigIntegers</a>.",
+      description: "Es el jefe de Pinedax, enough said.",
       image: "./assets/img/xvelopers/claudiox.jpg",
       links: [
       //  {name:"", icon:"", url:""}
