@@ -109,7 +109,7 @@ app.controller("HomeCtrl", ["$scope", "$rootScope", "$window", "$sce", function(
     },
     {
       name: "VivianX Guillen",
-      description: "Co-Fundadora de <a href='http://codetiger.co/'>codetiger</a>, se graduó econmía y se lo encontró demasiado aburrido, así que ahora trabaja en python. No le digas nada malo de <a href='http://getuikit.com/'>uikit</a>.",
+      description: "Co-Fundadora de <a href='http://codetiger.co/'>codetiger</a>, se graduó de economía y se lo encontró demasiado aburrido, así que ahora trabaja en python. No le digas nada malo de <a href='http://getuikit.com/'>uikit</a>.",
       image: "./assets/img/xvelopers/vivianx.jpg",
       links: [
       //  {name:"", icon:"", url:""}
