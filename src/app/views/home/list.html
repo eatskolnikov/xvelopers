@@ -1,0 +1,17 @@
+
+  <div ng-repeat="xveloper in xvelopers" class="uk-width-medium-1-3 uk-text-center uk-margin-top" >
+    <div class="uk-thumbnail uk-overlay-hover uk-border-circle">
+      <figure class="uk-overlay">
+        <img class="uk-border-circle" width="240" height="240" ng-src="{{xveloper.image}}">
+        <figcaption class="uk-overlay-panel uk-overlay-background uk-flex uk-flex-center uk-flex-middle uk-text-center uk-border-circle">
+          <div>
+            <a href="#" class="uk-icon-button uk-icon-envelope"></a>
+            <a href="#" class="uk-icon-button uk-icon-twitter"></a>
+            <a href="#" class="uk-icon-button uk-icon-google-plus"></a>
+          </div>
+        </figcaption>
+      </figure>
+    </div>
+    <h2 class="uk-margin-bottom-remove">{{xveloper.name}}</h2>
+    <p class="uk-text-large uk-margin-top-remove uk-text-muted"  ng-bind-html="giveMeHtml(xveloper.description)"></p>
+  </div>

@@ -1,0 +1,11 @@
+{
+  "name": "xvelopers",
+  "version": "0.0.1",
+  "authors": [
+    "Enmanuel Toribio <enmanuel@torib.io>"
+  ],
+  "main": "src/index.html",
+  "dependencies": {
+    "jquery-2.1.4.min": "http://code.jquery.com/jquery-2.1.4.min.js"
+  }
+}
