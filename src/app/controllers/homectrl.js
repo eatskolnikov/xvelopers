@@ -14,7 +14,7 @@ app.controller("HomeCtrl", ["$scope", "$rootScope", "$window", "$sce", function(
     },
       {
         name: "Diox",
-        description: "Exiliado del gremio, fue el xveleloper original.",
+        description: "Exiliado del gremio por nuestros pecados, fue el xveloper original.",
         image: "./assets/img/xvelopers/diox.png",
         links: [
           {name:"LinkedIn", icon:"", url:""}
@@ -22,7 +22,7 @@ app.controller("HomeCtrl", ["$scope", "$rootScope", "$window", "$sce", function(
       },
     {
       name: "Efrain ReyeX",
-      description: "",
+      description: "C# connoisseur extraordinaire",
       image: "./assets/img/xvelopers/efrainreyex.jpg",
       links: [
         {name:"LinkedIn", icon:"", url:""}
@@ -30,7 +30,7 @@ app.controller("HomeCtrl", ["$scope", "$rootScope", "$window", "$sce", function(
     },
     {
       name: "Jorge VargaX",
-      description: "",
+      description: "CEO de como 42 startups, entre ellas <a href='http://codemera.com/'>codemera</a>, <a href='http://coworking.do'>coworking</a> e <a href='http://www.imprimela.net'>imprimela</a>",
       image: "./assets/img/xvelopers/jorgevargax.jpg",
       links: [
         {name:"LinkedIn", icon:"", url:""}
@@ -38,7 +38,7 @@ app.controller("HomeCtrl", ["$scope", "$rootScope", "$window", "$sce", function(
     },
     {
       name: "Leonardo JimeneX",
-      description: "",
+      description: "CEO de <a href='http://codetiger.co/'>codetiger</a>",
       image: "./assets/img/xvelopers/leonardox.jpg",
       links: [
         {name:"LinkedIn", icon:"", url:""}
@@ -46,7 +46,7 @@ app.controller("HomeCtrl", ["$scope", "$rootScope", "$window", "$sce", function(
     },
     {
       name: "Marco MarmolejoX",
-      description: "",
+      description: "Hace lo posible cada día por mejorar la industria de videojuegos en República Dominicana",
       image: "./assets/img/xvelopers/marcomarmolejox.jpg",
       links: [
         {name:"LinkedIn", icon:"", url:""}
@@ -54,7 +54,7 @@ app.controller("HomeCtrl", ["$scope", "$rootScope", "$window", "$sce", function(
     },
     {
       name: "Raydelto HernandeX",
-      description: "",
+      description: "Fiel amante de Blackberry y profesor de vocación, ha dado clases en todas las universidades.",
       image: "./assets/img/xvelopers/raydeltox.jpg",
       links: [
         {name:"LinkedIn", icon:"", url:""}
@@ -70,7 +70,7 @@ app.controller("HomeCtrl", ["$scope", "$rootScope", "$window", "$sce", function(
     },
     {
       name: "Riaz HemmatX",
-      description: "",
+      description: "Constantemente aboga por mejorar el mercado laboral de los desarrolladores a travez de su compañia <a href='http://www.bluecoding.com/'>bluecoding</a>",
       image: "./assets/img/xvelopers/riazhermmatx.jpg",
       links: [
         {name:"LinkedIn", icon:"", url:""}
@@ -86,7 +86,7 @@ app.controller("HomeCtrl", ["$scope", "$rootScope", "$window", "$sce", function(
     },
     {
       name: "Victor RecioX",
-      description: "",
+      description: "Devop",
       image: "./assets/img/xvelopers/victorx.jpg",
       links: [
         {name:"LinkedIn", icon:"", url:""}
