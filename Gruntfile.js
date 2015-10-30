@@ -30,7 +30,7 @@ module.exports = function(grunt) {
                 separator: '\n'
             },
             css: {
-                src: ['bower_components/uikit/css/uikit.min.css', 'src/assets/css/style.css'],
+                src: ['bower_components/uikit/css/uikit.min.css', 'bower_components/uikit/css/uikit.gradient.min.css', 'src/assets/css/style.css'],
                 dest: 'build/assets/css/main.css'
             },
             app:{
