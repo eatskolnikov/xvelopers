@@ -86,7 +86,7 @@ app.controller("HomeCtrl", ["$scope", "$rootScope", "$window", "$sce", function(
     },
     {
       name: "Victor RecioX",
-      description: "Devop",
+      description: "",
       image: "./assets/img/xvelopers/victorx.jpg",
       links: [
         {name:"LinkedIn", icon:"", url:""}
