@@ -70,7 +70,7 @@ app.controller("HomeCtrl", ["$scope", "$rootScope", "$window", "$sce", function(
     {
       name: "Omar DuarteX",
       description: "El pana mas easy going, se fue para <a href='http://www.workinestonia.com/'>Estonía</a> con un trabajo remoto que se transformó en onsite.",
-      image: "./assets/img/xvelopers/marcomarmolejox.jpg",
+      image: "./assets/img/xvelopers/omarduartex.jpg",
       links: [
       //  {name:"", icon:"", url:""}
       ]
