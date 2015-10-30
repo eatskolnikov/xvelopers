@@ -5,9 +5,7 @@
         <img class="uk-border-circle" width="240" height="240" ng-src="{{xveloper.image}}">
         <figcaption class="uk-overlay-panel uk-overlay-background uk-flex uk-flex-center uk-flex-middle uk-text-center uk-border-circle">
           <div>
-            <a href="#" class="uk-icon-button uk-icon-envelope"></a>
-            <a href="#" class="uk-icon-button uk-icon-twitter"></a>
-            <a href="#" class="uk-icon-button uk-icon-google-plus"></a>
+            <a ng-repeat="link in xveloper.links" ng-href="{{link.url}}" class="uk-icon-button {{link.icon}}"></a>
           </div>
         </figcaption>
       </figure>
