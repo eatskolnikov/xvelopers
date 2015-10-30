@@ -9,6 +9,7 @@
     "jquery-2.1.4.min": "http://code.jquery.com/jquery-2.1.4.min.js",
     "angular-sanitize": "~1.4.7",
     "angular": "~1.4.7",
-    "angular-route": "~1.4.7"
+    "angular-route": "~1.4.7",
+    "uikit": "~2.23.0"
   }
 }
