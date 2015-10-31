@@ -6,7 +6,6 @@ app.controller("HomeCtrl", ["$scope", "$rootScope", "$window", "$sce", "$http", 
   $scope.xvelopers =[];
   $scope.init = function(){
     $http.get('./xvelopers.json').success(function(data){
-      console.log(data);
       $scope.xvelopers = data;
     });
   };
