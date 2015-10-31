@@ -1,5 +1,5 @@
 
-  <div ng-repeat="xveloper in xvelopers" class="uk-width-medium-1-3 uk-text-center uk-margin-top" >
+  <div ng-repeat="xveloper in home.xvelopers" class="uk-width-medium-1-3 uk-text-center uk-margin-top" >
     <div class="uk-thumbnail uk-overlay-hover uk-border-circle">
       <figure class="uk-overlay">
         <img class="uk-border-circle" width="240" height="240" ng-src="{{xveloper.image}}">
@@ -11,5 +11,5 @@
       </figure>
     </div>
     <h2 class="uk-margin-bottom-remove">{{xveloper.name}}</h2>
-    <p class="uk-text-large uk-margin-top-remove uk-text-muted"  ng-bind-html="giveMeHtml(xveloper.description)"></p>
+    <p class="uk-text-large uk-margin-top-remove uk-text-muted"  ng-bind-html="home.giveMeHtml(xveloper.description)"></p>
   </div>

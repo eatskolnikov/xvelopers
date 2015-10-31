@@ -1,13 +1,13 @@
-app.controller("HomeCtrl", ["$scope", "$rootScope", "$window", "$sce", "$http", function($scope, $rootScope, $window, $sce, $http)
+app.controller("HomeCtrl", ["$sce", "$http", function($sce, $http)
 {
-  $scope.giveMeHtml = function(text){
+  this.giveMeHtml = function(text){
     return $sce.trustAsHtml(text);
   };
-  $scope.xvelopers =[];
-  $scope.init = function(){
-    $http.get('./xvelopers.json').success(function(data){
-      $scope.xvelopers = data;
-    });
+  this.xvelopers =[];
+  this.init = function(){
+    $http.get('./xvelopers.json').success(angular.bind(this, function(data){
+      this.xvelopers = data;
+    }));
   };
-  $scope.init();
+  this.init();
 }]);

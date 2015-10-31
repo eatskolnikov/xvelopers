@@ -3,7 +3,8 @@ app.config(['$routeProvider','$locationProvider', function($routeProvider, $loca
     $routeProvider
         .when('/', {
             templateUrl: 'app/views/home/list.html',
-            controller: 'HomeCtrl'
+            controller: 'HomeCtrl',
+            controllerAs: 'home'
         })
         .otherwise({
             templateUrl: 'app/views/404.html',
