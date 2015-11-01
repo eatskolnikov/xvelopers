@@ -1,4 +1,11 @@
 [
+
+  {
+    "name": "AhmeX Ayub", 
+    "description": "Emprendedor, fanático del gimnasio, apasionado (le gusta hablar alto) , creador de varias empresas de desarrollo de software, hoy es abanderado del trabajo remoto, trabaja en  <a href='https://www.rev.com/'>REV</a> ganando la funda. Ahora disfruta de su fortuna en Texas y viene de vez en cuando a RD a motivar a los jóvenes desarrolladores a buscar alternativas de progreso.",
+    "image": "./assets/img/xvelopers/ahmedayubx.jpg",
+    "links": []
+  },
   {
     "name": "Andrés PinedaX",
     "description": "Tiene tanto dinero que la cantidad necesaria para contarlo requiere dos <a href='https://goo.gl/sWTkHd'>bigIntegers</a>.",
@@ -84,12 +91,5 @@
     "description": "Co-Fundadora de <a href='http://codetiger.co/'>codetiger</a>, se graduó de economía y se lo encontró demasiado aburrido, así que ahora trabaja en python y se encarga de la comunidad de <a href='https://www.facebook.com/groups/782144668499347/'>pyladies</a>. No le digas nada malo de <a href='http://getuikit.com/'>uikit</a>.",
     "image": "./assets/img/xvelopers/vivianx.jpg",
     "links": []
-  },
-  {
-    "name": "AhmeX Ayub", 
-    "description": "Emprendedor, fanático del gimnasio, apasionado (le gusta hablar alto) , creador de varias empresas de desarrollo de software, hoy es abanderado del trabajo remoto, trabaja en  <a href='https://www.rev.com/'>REV</a> ganando la funda. ahora disfruta de su fortuna Texas y viene de vez en cuando a RD a motivar a los jóvenes desarrolladores a buscar alternativas de progreso.",
-    "image": "./assets/img/xvelopers/ahmedayubx.jpg",
-    "links": []
   }
-
 ]
