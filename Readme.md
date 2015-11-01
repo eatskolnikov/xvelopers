@@ -2,14 +2,14 @@
 About
 ==============
 
-[xveloers](http://xvelopers.org) is a project made to support the dominican software development community
+[xvelopers](http://xvelopers.org) is a project made to support the Dominican software development community
 
 Setup and installation
 ==============
 
 Install nodejs
 --------------
-[Here](https://goo.gl/YcOsZP) you can check how to do so. There's an issue when installing node in ubuntu, check it out how to solve it [here](https://goo.gl/uSfZXo)
+[Here](https://goo.gl/YcOsZP) you can check how to do so. There's an issue when installing Node in Ubuntu, check it out how to solve it [here](https://goo.gl/uSfZXo)
 
 Open the command line and update npm
 --------------
