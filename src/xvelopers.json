@@ -3,21 +3,26 @@
     "name": "AhmeX Ayub",
     "description": "Emprendedor, fanático del gimnasio, apasionado (le gusta hablar alto) , creador de varias empresas de desarrollo de software, hoy es abanderado del trabajo remoto, trabaja en  <a href='https://www.rev.com/'>REV</a> ganando la funda. Ahora disfruta de su fortuna en Texas y viene de vez en cuando a RD a motivar a los jóvenes desarrolladores a buscar alternativas de progreso.",
     "image": "./assets/img/xvelopers/ahmedayubx.jpg",
-    "links": []
+    "links": [
+      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/amhed"}
+    ]
   },
   {
-    "name": "Andrés PinedaX",
-    "description": "Tiene tanto dinero que la cantidad necesaria para contarlo requiere dos <a href='https://goo.gl/sWTkHd'>bigIntegers</a>.",
+    "name": "XAndrés PinedaX",
+    "description": "Tiene tanto dinero que la cantidad necesaria para contarlo requiere dos <a href='https://goo.gl/sWTkHd'>bigIntegers</a>. El dice que la X de XAndrés es por <a href='https://goo.gl/aO3iv1'>Xamarin</a>.",
     "image": "./assets/img/xvelopers/pinedax.jpg",
     "links": [
-      {"name":"", "icon":"uk-icon-facebook", "url":"https://goo.gl/rZySlu"}
+      {"name":"", "icon":"uk-icon-facebook", "url":"https://goo.gl/rZySlu"},
+      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/ajpinedam"}
     ]
   },
   {
     "name": "ClaudioX Sanchez",
     "description": "Es el jefe de Pinedax, enough said.",
     "image": "./assets/img/xvelopers/claudiox.jpg",
-    "links": []
+    "links": [
+      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/claudiosanchez"}
+    ]
   },
   {
     "name": "DioX",
@@ -29,25 +34,33 @@
     "name": "Efrain ReyeX",
     "description": "C# connoisseur extraordinaire.",
     "image": "./assets/img/xvelopers/efrainreyex.jpg",
-    "links": []
+    "links": [
+      { "name":"", "icon":"uk-icon-github", "url":"https://github.com/EfrainReyes"}
+    ]
   },
   {
     "name": "Hector MinayaX",
     "description": "Un día, aburrido, se le ocurrió darle al botón de 'nuevo grupo' en facebook y ahora estamos <a href='https://www.facebook.com/groups/devdominicanos/'>aquí</a>.",
     "image": "./assets/img/xvelopers/hectorminayax.jpg",
-    "links": []
+    "links": [
+      { "name":"", "icon":"uk-icon-github", "url":"https://github.com/hminaya"}
+    ]
   },
   {
     "name": "Jorge VargaX",
     "description": "CEO de como 42 startups, entre ellas <a href='http://codemera.com/'>codemera</a>, <a href='http://coworking.do'>coworking</a> e <a href='http://www.imprimela.net'>imprimela</a>",
     "image": "./assets/img/xvelopers/jorgevargax.jpg",
-    "links": []
+    "links": [
+      { "name":"", "icon":"uk-icon-github", "url":"https://github.com/elpargo"}
+    ]
   },
   {
     "name": "Leonardo JimeneX",
     "description": "CEO de <a href='http://codetiger.co/'>codetiger</a> y amante de los juegos mobiles.",
     "image": "./assets/img/xvelopers/leonardox.jpg",
-    "links": []
+    "links": [
+      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/xpostudio4"}
+    ]
   },
   {
     "name": "Marco MarmolejoX",
@@ -59,38 +72,49 @@
     "name": "Omar DuarteX",
     "description": "El pana más easy going, se fue para <a href='http://www.workinestonia.com/'>Estonía</a> con un trabajo remoto que se transformó en onsite.",
     "image": "./assets/img/xvelopers/omarduartex.jpg",
-    "links": []
+    "links": [
+      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/omarduarte"}
+    ]
   },
   {
     "name": "RaydeltoX Hernández",
     "description": "Fiel creyente de Blackberry y profesor de vocación, ha dado clases en todas las universidades y en sus tiempos libres escribe <a href='http://amzn.com/1785283839'>libros</a>.",
     "image": "./assets/img/xvelopers/raydeltox.jpg",
     "links": [
-      {"name":"", "icon":"uk-icon-facebook", "url":"https://www.facebook.com/raydelto.hernandezperera"}
-	]
+      {"name":"", "icon":"uk-icon-facebook", "url":"https://www.facebook.com/raydelto.hernandezperera"},
+      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/raydelto"}
+	  ]
   },
   {
     "name": "René OlivoX",
     "description": "#LaVidaEnZen el más #vendezido, actualmente se la pasa de charla en charla y lo puedes encontrar en Bräu un día cualquiera en #chillax.",
     "image": "./assets/img/xvelopers/renex.jpg",
-    "links": []
+    "links": [
+      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/reneolivo"}
+    ]
   },
   {
     "name": "RiaX Hemmat",
     "description": "Constantemente aboga por mejorar el mercado laboral de los desarrolladores por medio de su compañia <a href='http://www.bluecoding.com/'>bluecoding</a>.",
     "image": "./assets/img/xvelopers/riazhermmatx.jpg",
-    "links": []
+    "links": [
+      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/dhemmat"}
+    ]
   },
   {
     "name": "Rubens MariuzzoX",
     "description": "Un pana bien, es tan bacano que cuando consiguió un trabajo remoto con <a href='http://x-team.com/'>X-TEAM</a> (not related to xvelopers), se mudó a Pedernales.",
     "image": "./assets/img/xvelopers/rubensmariuzzox.jpg",
-    "links": []
+    "links": [
+      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/rmariuzzo"}
+    ]
   },
   {
     "name": "VivianX Guillen",
     "description": "Co-Fundadora de <a href='http://codetiger.co/'>codetiger</a>, se graduó de economía y se lo encontró demasiado aburrido, así que ahora trabaja en python y se encarga de la comunidad de <a href='https://www.facebook.com/groups/782144668499347/'>pyladies</a>. No le digas nada malo de <a href='http://getuikit.com/'>uikit</a>.",
     "image": "./assets/img/xvelopers/vivianx.jpg",
-    "links": []
+    "links": [
+      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/viviangb"}
+    ]
   }
 ]
