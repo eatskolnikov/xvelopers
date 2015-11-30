@@ -1,7 +1,7 @@
 [
   {
     "name": "AhmeX Ayub",
-    "description": "Emprendedor, fanático del gimnasio, apasionado (le gusta hablar alto) , creador de varias empresas de desarrollo de software, hoy es abanderado del trabajo remoto, trabaja en  <a href='https://www.rev.com/'>REV</a> ganando la funda. Ahora disfruta de su fortuna en Texas y viene de vez en cuando a RD a motivar a los jóvenes desarrolladores a buscar alternativas de progreso.",
+    "description": "Emprendedor, fanático del gimnasio, apasionado (le gusta hablar alto), creador de varias empresas de desarrollo de software. Hoy es abanderado del trabajo remoto, trabaja en  <a href='https://www.rev.com/'>REV</a> ganando la funda. Ahora disfruta de su fortuna en Texas y viene de vez en cuando a RD a motivar a los jóvenes desarrolladores a buscar alternativas de progreso.",
     "image": "./assets/img/xvelopers/ahmedayubx.jpg",
     "links": [
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/amhed"}
@@ -17,6 +17,14 @@
     ]
   },
   {
+    "name": "CarloX Vásquez Polanco",
+    "description": "Java connoiseur extraordinaire. Cuando no lo ves hablando sobre las ventajas del UML y las metodologías ágiles, se encuentra maquinando el próximo Ban Day en Developers Dominicanos.",
+    "image": "./assets/img/xvelopers/carlox.jpg",
+    "links": [
+      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/carlosvasquez"}
+    ]
+  },
+  {
     "name": "ClaudioX Sanchez",
     "description": "Es el jefe de Pinedax, enough said.",
     "image": "./assets/img/xvelopers/claudiox.jpg",
@@ -26,12 +34,12 @@
   },
   {
     "name": "DioX",
-    "description": "Exiliado del gremio por nuestros pecados, fue el xveloper original.",
+    "description": "Exiliado del gremio por nuestros pecadox, fue el xveloper original.",
     "image": "./assets/img/xvelopers/diox.png",
     "links": []
   },
   {
-    "name": "Efrain ReyeX",
+    "name": "Efraín ReyeX",
     "description": "C# connoisseur extraordinaire.",
     "image": "./assets/img/xvelopers/efrainreyex.jpg",
     "links": [
@@ -56,7 +64,7 @@
   },
   {
     "name": "Leonardo JimeneX",
-    "description": "CEO de <a href='http://codetiger.co/'>codetiger</a> y amante de los juegos mobiles.",
+    "description": "CEO de <a href='http://codetiger.co/'>codetiger</a> y amante de los juegos móviles.",
     "image": "./assets/img/xvelopers/leonardox.jpg",
     "links": [
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/xpostudio4"}
@@ -70,7 +78,7 @@
   },
   {
     "name": "Omar DuarteX",
-    "description": "El pana más easy going, se fue para <a href='http://www.workinestonia.com/'>Estonía</a> con un trabajo remoto que se transformó en onsite.",
+    "description": "El pana más easy-going, se fue para <a href='http://www.workinestonia.com/'>Estonia</a> con un trabajo remoto que se transformó en on-site.",
     "image": "./assets/img/xvelopers/omarduartex.jpg",
     "links": [
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/omarduarte"}
@@ -96,7 +104,7 @@
   {
     "name": "RiaX Hemmat",
     "description": "Constantemente aboga por mejorar el mercado laboral de los desarrolladores por medio de su compañia <a href='http://www.bluecoding.com/'>bluecoding</a>.",
-    "image": "./assets/img/xvelopers/riazhermmatx.jpg",
+    "image": "./assets/img/xvelopers/riazhemmatx.jpg",
     "links": [
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/dhemmat"}
     ]
