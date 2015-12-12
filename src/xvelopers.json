@@ -1,6 +1,25 @@
 [
   {
-    "name": "AhmeX Ayub",
+    "id":"robertox",
+    "name": "Robertox Abreu",
+    "description": "Rector de la carrera de ISC en <a href='http://www.pucmm.edu.do/' title='Pricing Up Credits More and More'>PUCMM Santiago</a>, apasionado del gimnasio y la resolución de algoritmos.",
+    "image": "./assets/img/xvelopers/robertoxabreu.jpg",
+    "links": [
+      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/rcabreu"}
+    ]
+  },
+  {
+    "id": "noex",
+    "name": "Noex Branagan",
+    "description": "Rector de la carrera de ISC en PUCMM Santiago, fan del gimnasio y la resolución de algoritmos.",
+    "image": "./assets/img/xvelopers/noexbranagan.jpg",
+    "links": [
+      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/rcabreu"}
+    ]
+  },
+  {
+    "id": "ahmex",
+    "name": "Ahmex Ayub",
     "description": "Emprendedor, fanático del gimnasio, apasionado (le gusta hablar alto), creador de varias empresas de desarrollo de software. Hoy es abanderado del trabajo remoto, trabaja en  <a href='https://www.rev.com/'>REV</a> ganando la funda. Ahora disfruta de su fortuna en Texas y viene de vez en cuando a RD a motivar a los jóvenes desarrolladores a buscar alternativas de progreso.",
     "image": "./assets/img/xvelopers/ahmedayubx.jpg",
     "links": [
@@ -8,7 +27,8 @@
     ]
   },
   {
-    "name": "Andrés PinedaX",
+    "id": "pinedax",
+    "name": "Andrés Pinedax",
     "description": "Tiene tanto dinero que la cantidad necesaria para contarlo requiere dos <a href='https://goo.gl/sWTkHd'>bigIntegers</a>.",
     "image": "./assets/img/xvelopers/pinedax.jpg",
     "links": [
@@ -17,7 +37,8 @@
     ]
   },
   {
-    "name": "CarloX Vásquez Polanco",
+    "id": "carlox",
+    "name": "Carlox Vásquez Polanco",
     "description": "Java connoiseur extraordinaire. Cuando no lo ves hablando sobre las ventajas del UML y las metodologías ágiles, se encuentra maquinando el próximo Ban Day en Developers Dominicanos.",
     "image": "./assets/img/xvelopers/carlox.jpg",
     "links": [
@@ -25,7 +46,8 @@
     ]
   },
   {
-    "name": "ClaudioX Sanchez",
+    "id": "claudiox",
+    "name": "Claudiox Sanchez",
     "description": "Es el jefe de Pinedax, enough said.",
     "image": "./assets/img/xvelopers/claudiox.jpg",
     "links": [
@@ -33,13 +55,15 @@
     ]
   },
   {
-    "name": "DioX",
+    "id": "diox",
+    "name": "Diox",
     "description": "Exiliado del gremio por nuestros pecadox, fue el xveloper original.",
     "image": "./assets/img/xvelopers/diox.png",
     "links": []
   },
   {
-    "name": "Efraín ReyeX",
+    "id": "reyex",
+    "name": "Efraín Reyex",
     "description": "C# connoisseur extraordinaire.",
     "image": "./assets/img/xvelopers/efrainreyex.jpg",
     "links": [
@@ -47,7 +71,8 @@
     ]
   },
   {
-    "name": "Hector MinayaX",
+    "id": "minayax",
+    "name": "Hector Minayax",
     "description": "Un día, aburrido, se le ocurrió darle al botón de 'nuevo grupo' en facebook y ahora estamos <a href='https://www.facebook.com/groups/devdominicanos/'>aquí</a>.",
     "image": "./assets/img/xvelopers/hectorminayax.jpg",
     "links": [
@@ -55,7 +80,8 @@
     ]
   },
   {
-    "name": "Jorge VargaX",
+    "id": "vargax",
+    "name": "Jorge Vargax",
     "description": "CEO de como 42 startups, entre ellas <a href='http://codemera.com/'>codemera</a>, <a href='http://coworking.do'>coworking</a> e <a href='http://www.imprimela.net'>imprimela</a>",
     "image": "./assets/img/xvelopers/jorgevargax.jpg",
     "links": [
@@ -63,21 +89,24 @@
     ]
   },
   {
-    "name": "Leonardo JimeneX",
-    "description": "CEO de <a href='http://codetiger.co/'>codetiger</a> y amante de los juegos móviles.",
+    "id": "leonardox",
+    "name": "Leonardox Jimenez",
+    "description": "CEO de <a href='http://codetiger.co/'>codetiger</a>, amante de los juegos móviles y organizador de <a href='http://goo.gl/GB540r'>pycaribbean</a>.",
     "image": "./assets/img/xvelopers/leonardox.jpg",
     "links": [
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/xpostudio4"}
     ]
   },
   {
-    "name": "Marco MarmolejoX",
+    "id":"marcox",
+    "name": "Marcox Marmolejos",
     "description": "Aficionado/Profesional del diseño de videojuegos. Hace lo posible cada día por mejorar <a href='https://www.facebook.com/groups/cddvorg/'>la industria de videojuegos en República Dominicana</a>.",
     "image": "./assets/img/xvelopers/marcomarmolejox.jpg",
     "links": []
   },
   {
-    "name": "Omar DuarteX",
+    "id": "duartex",
+    "name": "Omar Duartex",
     "description": "El pana más easy-going, se fue para <a href='http://www.workinestonia.com/'>Estonia</a> con un trabajo remoto que se transformó en on-site.",
     "image": "./assets/img/xvelopers/omarduartex.jpg",
     "links": [
@@ -85,7 +114,8 @@
     ]
   },
   {
-    "name": "RaydeltoX Hernández",
+    "id":"raydeltox",
+    "name": "Raydeltox Hernández",
     "description": "Fiel creyente de Blackberry y profesor de vocación, ha dado clases en todas las universidades y en sus tiempos libres escribe <a href='http://amzn.com/1785283839'>libros</a>.",
     "image": "./assets/img/xvelopers/raydeltox.jpg",
     "links": [
@@ -94,7 +124,8 @@
 	  ]
   },
   {
-    "name": "René OlivoX",
+    "id":"olivox",
+    "name": "René Olivox",
     "description": "#LaVidaEnZen el más #vendezido, actualmente se la pasa de charla en charla y lo puedes encontrar en Bräu un día cualquiera en #chillax.",
     "image": "./assets/img/xvelopers/renex.jpg",
     "links": [
@@ -102,7 +133,8 @@
     ]
   },
   {
-    "name": "RiaX Hemmat",
+    "id":"riax",
+    "name": "Riax Hemmat",
     "description": "Constantemente aboga por mejorar el mercado laboral de los desarrolladores por medio de su compañia <a href='http://www.bluecoding.com/'>bluecoding</a>.",
     "image": "./assets/img/xvelopers/riazhemmatx.jpg",
     "links": [
@@ -110,7 +142,8 @@
     ]
   },
   {
-    "name": "Rubens MariuzzoX",
+    "id": "mariuzzox",
+    "name": "Rubens Mariuzzox",
     "description": "Un pana bien, es tan bacano que cuando consiguió un trabajo remoto con <a href='http://x-team.com/'>X-TEAM</a> (not related to xvelopers), se mudó a Pedernales.",
     "image": "./assets/img/xvelopers/rubensmariuzzox.jpg",
     "links": [
@@ -118,7 +151,8 @@
     ]
   },
   {
-    "name": "VivianX Guillen",
+    "id":"vivianx",
+    "name": "Vivianx Guillen",
     "description": "Co-Fundadora de <a href='http://codetiger.co/'>codetiger</a>, se graduó de economía y se lo encontró demasiado aburrido, así que ahora trabaja en python y se encarga de la comunidad de <a href='https://www.facebook.com/groups/782144668499347/'>pyladies</a>. No le digas nada malo de <a href='http://getuikit.com/'>uikit</a>.",
     "image": "./assets/img/xvelopers/vivianx.jpg",
     "links": [

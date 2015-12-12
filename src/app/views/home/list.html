@@ -1,6 +1,6 @@
 
-  <div ng-repeat="xveloper in home.xvelopers" class="uk-width-medium-1-3 uk-text-center uk-margin-top" >
-    <div class="uk-thumbnail uk-overlay-hover uk-border-circle">
+  <div ng-repeat="xveloper in home.xvelopers" scroll-to-xveloper-directive class="uk-width-medium-1-3 uk-text-center uk-margin-top" id="{{xveloper.id}}">
+    <div class="uk-thumbnail uk-overlay-hover uk-border-circle" >
       <figure class="uk-overlay">
         <img class="uk-border-circle" width="240" height="240" ng-src="{{xveloper.image}}">
         <figcaption class="uk-overlay-panel uk-overlay-background uk-flex uk-flex-center uk-flex-middle uk-text-center uk-border-circle">

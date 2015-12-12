@@ -40,6 +40,7 @@ module.exports = function(grunt) {
                      'bower_components/angular-route/angular-route.min.js',
                      'bower_components/angular-sanitize/angular-sanitize.min.js',
                      'src/app/app.js',
+                     'src/app/directives/*',
                      'src/app/controllers/*',
                      'src/assets/js/shared.js'],
                 dest:'build/app.js'
@@ -125,7 +126,7 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-concat');
     grunt.loadNpmTasks('grunt-contrib-uglify');
     grunt.registerTask('build', function () {
-        grunt.task.run(['jshint', 'clean:build', 'concat', 'uglify', 'cssmin', 'htmlmin', 'copy', 'imagemin', 'remove']);
+        grunt.task.run(['jshint', 'clean:build', 'concat', 'uglify', 'cssmin', 'htmlmin', 'copy', 'imagemin']); //, 'remove']);
     });
     grunt.registerTask('default', ['watch']);
 };
