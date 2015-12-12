@@ -11,10 +11,10 @@
   {
     "id": "noex",
     "name": "Noex Branagan",
-    "description": "Rector de la carrera de ISC en PUCMM Santiago, fan del gimnasio y la resolución de algoritmos.",
+    "description": "Fanboy de Google, fue el primer dominicano en comprar un <a href='https://www.google.com/glass/start/'>Google Glass</a>. Es el responsable del <a href='https://plus.google.com/communities/101585921297215488952'>GDG Santo Domingo</a>.",
     "image": "./assets/img/xvelopers/noexbranagan.jpg",
     "links": [
-      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/rcabreu"}
+      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/eonoe"}
     ]
   },
   {
