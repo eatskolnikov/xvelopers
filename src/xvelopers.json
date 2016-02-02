@@ -1,8 +1,17 @@
 [
   {
+    "id":"toribiox",
+    "name": "Enmanuel Toribiox",
+    "description": "Creador del site de Xvelopers, famoso por su participación en competencias locales de algoritmos, colaborador activo de la comunidad de desarrollo de Software en República Dominicana, sentido del humor único, <a href=\"https://s-media-cache-ak0.pinimg.com/564x/4c/23/93/4c23937ed7926808db5c5e8114146b5f.jpg\">apasionado por los emoticones de gatitos provistos por Facebook</a>.",
+    "image": "./assets/img/xvelopers/toribiox.jpg",
+    "links": [
+      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/eatskolnikov"}
+    ]
+  },
+  {
     "id":"robertox",
     "name": "Robertox Abreu",
-    "description": "Rector de la carrera de ISC en <a href='http://www.pucmm.edu.do/' title='Pricing Up Credits More and More'>PUCMM Santiago</a>, apasionado del gimnasio y la resolución de algoritmos.",
+    "description": "Director de la carrera de ISC en <a href='http://www.pucmm.edu.do/' title='Pricing Up Credits More and More'>PUCMM Santiago</a>, apasionado del gimnasio y la resolución de algoritmos.",
     "image": "./assets/img/xvelopers/robertoxabreu.jpg",
     "links": [
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/rcabreu"}
