@@ -88,7 +88,7 @@ module.exports = function(grunt) {
             }
         },
         imagemin: {
-            options: {                       // Target options
+            options: {
                 optimizationLevel: 5
             },
             dynamic: {
@@ -126,7 +126,7 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-concat');
     grunt.loadNpmTasks('grunt-contrib-uglify');
     grunt.registerTask('build', function () {
-        grunt.task.run(['jshint', 'clean:build', 'concat', 'uglify', 'cssmin', 'htmlmin', 'copy', 'imagemin']); //, 'remove']);
+        grunt.task.run(['jshint', 'clean:build', 'concat', 'uglify', 'cssmin', 'htmlmin', 'copy', 'imagemin', 'remove']);
     });
     grunt.registerTask('default', ['watch']);
 };
