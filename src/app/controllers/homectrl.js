@@ -21,7 +21,7 @@ app.controller("HomeCtrl", ["$sce", "$http", "$filter", "$location","$timeout", 
       }
   };
   this.init = function(){
-    $http.get('./xvelopers.json').success(angular.bind(this, function(data){
+    $http.get('./xvelopers.json?v=XVELOPERSAPP_CURRENT_VERSION').success(angular.bind(this, function(data){
       this.xvelopers = orderBy(data,'name',false);
     }));
   };
