@@ -5,7 +5,12 @@ var XvelopersList = React.createClass({
   },
   componentDidMount: function(){
     var self = this;
-    $.get('./xvelopers.json', function(data) {
+    $.get('./xvelopers.json?v=XVELOPERSAPP_CURRENT_VERSION', function(data) {
+      data.sort(function(a,b){
+        if(a.name < b.name) return -1;
+        if(a.name > b.name) return 1;
+        return 0;
+      });
       self.setState({xvelopers:data});
     });
   },
