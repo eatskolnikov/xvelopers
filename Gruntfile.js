@@ -6,6 +6,7 @@ module.exports = function(grunt) {
         }
         return str;
     };
+    var tasks = ['jshint', 'clean:build', 'babel', 'concat', 'uglify', 'cssmin', 'htmlmin', 'copy', 'imagemin', 'remove', 'string-replace'];
     Date.prototype.YYYYMMDDHHMMSS = function () {
        var yyyy = this.getFullYear().toString();
        var MM = pad(this.getMonth() + 1,2);
@@ -20,12 +21,15 @@ module.exports = function(grunt) {
     grunt.initConfig({
         pkg: grunt.file.readJSON('package.json'),
         jshint: {
-            all: ['Gruntfile.js', 'src/app/**/*.js']
+            all: ['Gruntfile.js', 'src/app/**/*.js', 'src/**/*.jsx'],
+            options: {
+                jshintrc: '.jshintrc',
+            }
         },
         watch: {
             build: {
-                files: ['src/**/*.js','src/**/*.css', 'src/**/*.html', 'src/**/*.json'],
-                tasks: ['jshint', 'clean:build', 'concat', 'uglify', 'cssmin', 'htmlmin', 'copy', 'imagemin', 'remove', 'string-replace'],
+                files: ['src/**/*.js','src/**/*.css', 'src/**/*.html', 'src/**/*.json', 'src/**/*.jsx'],
+                tasks: tasks,
                 options: {
                     spawn: false
                 }
@@ -48,18 +52,17 @@ module.exports = function(grunt) {
                 separator: '\n'
             },
             css: {
-                src: ['bower_components/uikit/css/uikit.min.css', 'bower_components/uikit/css/uikit.gradient.min.css', 'src/assets/css/style.css'],
+                src: ['bower_components/uikit/css/uikit.min.css',
+                      'bower_components/uikit/css/uikit.gradient.min.css',
+                      'src/assets/css/style.css'],
                 dest: 'build/assets/css/main.css'
             },
             app:{
                 src:['bower_components/jquery-2.1.4.min/index.js',
                      'bower_components/uikit/js/uikit.min.js',
-                     'bower_components/angular/angular.min.js',
-                     'bower_components/angular-route/angular-route.min.js',
-                     'bower_components/angular-sanitize/angular-sanitize.min.js',
-                     'src/app/app.js',
-                     'src/app/directives/*',
-                     'src/app/controllers/*',
+                     'bower_components/react/react.min.js',
+                     'bower_components/react/react-dom.min.js',
+                     'src/react_components/js/xvelopers.js',
                      'src/assets/js/shared.js'],
                 dest:'build/app.js'
             }
@@ -149,6 +152,21 @@ module.exports = function(grunt) {
               }]
             }
           }
+        },
+        babel: {
+          options: {
+            plugins: ['transform-react-jsx'],
+            presets: ['es2015', 'react']
+          },
+          jsx: {
+            files: [{
+              expand: true,
+              cwd: 'src/react_components/',
+              src: ['*.jsx'],
+              dest: 'src/react_components/js/',
+              ext: '.js'
+            }]
+          }
         }
     });
     grunt.loadNpmTasks('grunt-remove');
@@ -158,13 +176,14 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-clean');
     grunt.loadNpmTasks('grunt-contrib-htmlmin');
     grunt.loadNpmTasks('grunt-notify');
-    grunt.loadNpmTasks('grunt-contrib-jshint');
+    grunt.loadNpmTasks('grunt-jsxhint');
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-contrib-cssmin');
     grunt.loadNpmTasks('grunt-contrib-concat');
     grunt.loadNpmTasks('grunt-contrib-uglify');
+    grunt.loadNpmTasks('grunt-babel');
     grunt.registerTask('build', function () {
-        grunt.task.run(['jshint', 'clean:build', 'concat', 'uglify', 'cssmin', 'htmlmin', 'copy', 'imagemin', 'remove', 'string-replace']);
+        grunt.task.run(tasks);
     });
     grunt.registerTask('default', ['watch']);
 };

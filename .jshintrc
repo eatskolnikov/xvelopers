@@ -1,0 +1,12 @@
+{
+  "globals": {
+    "React": false,
+    "ReactDOM": false,
+    "$": false
+  },
+  "browser": true,
+  "esnext": true,
+  "jquery": true,
+  "node": true,
+  "noyield": true
+}

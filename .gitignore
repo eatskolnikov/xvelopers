@@ -2,5 +2,6 @@
 node_modules/
 .DS_Store
 build/
+src/react_components/js/
 bower_components/
 .idea

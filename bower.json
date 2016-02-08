@@ -10,6 +10,7 @@
     "angular-sanitize": "~1.4.7",
     "angular": "~1.4.7",
     "angular-route": "~1.4.7",
-    "uikit": "~2.23.0"
+    "uikit": "~2.23.0",
+    "react": "~0.14.7"
   }
 }
