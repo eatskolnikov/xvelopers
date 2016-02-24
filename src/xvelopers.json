@@ -2,7 +2,7 @@
   {
     "id":"toribiox",
     "name": "Enmanuel Toribiox",
-    "description": "Creador del site de Xvelopers, famoso por su participación en competencias locales de algoritmos, colaborador activo de la comunidad de desarrollo de Software en República Dominicana, sentido del humor único, <a href=\"https://s-media-cache-ak0.pinimg.com/564x/4c/23/93/4c23937ed7926808db5c5e8114146b5f.jpg\">apasionado por los emoticones de gatitos provistos por Facebook</a>.",
+    "description": "Creador del site de Xvelopers, famoso por su participación en competencias locales de algoritmos, colaborador activo de la comunidad de Desarrollo de Software en República Dominicana, sentido del humor único, apasionado por los footers y fan #1 de <a href='http://www.pusheen.com'>Pusheen</a>.",
     "image": "./assets/img/xvelopers/toribiox.jpg",
     "links": [
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/eatskolnikov"}
@@ -56,7 +56,7 @@
   },
   {
     "id": "claudiox",
-    "name": "Claudiox Sanchez",
+    "name": "ClauDiox Sanchez",
     "description": "Es el jefe de Pinedax, enough said.",
     "image": "./assets/img/xvelopers/claudiox.jpg",
     "links": [
@@ -90,7 +90,7 @@
   },
   {
     "id": "vargax",
-    "name": "Jorge Vargax",
+    "name": "Jorgex Vargas",
     "description": "CEO de como 42 startups, entre ellas <a href='http://codemera.com/'>codemera</a>, <a href='http://coworking.do'>coworking</a> e <a href='http://www.imprimela.net'>imprimela</a>",
     "image": "./assets/img/xvelopers/jorgevargax.jpg",
     "links": [
@@ -134,7 +134,7 @@
   },
   {
     "id":"olivox",
-    "name": "René Olivox",
+    "name": "Renéx Olivo",
     "description": "#LaVidaEnZen el más #vendezido, actualmente se la pasa de charla en charla y lo puedes encontrar en Bräu un día cualquiera en #chillax.",
     "image": "./assets/img/xvelopers/renex.jpg",
     "links": [
