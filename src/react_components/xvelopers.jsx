@@ -19,7 +19,7 @@ var XvelopersList = React.createClass({
       var renderLinks = function(link){
         var className = "uk-icon-button "+link.icon+ " uk-margin-small-right";
         return (
-          <a href={link.url} className={className}></a>
+          <a href={link.url} className={className} target="_blank"></a>
         );
       };
       function xveloperDescription() { return {__html: xveloper.description}; }
