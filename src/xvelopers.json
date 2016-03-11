@@ -7,7 +7,8 @@
     "links": [
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/eatskolnikov"}
     ]
-  },{
+  },
+  {
     "id":"charlinx",
     "name": "Charlinx Agramonte",
     "description": "La dioxa del odiox, primera femina graduada de la carrera de Ingeniería de Software de INTEC. Junto con Renex se encarga de correr el grupo <a href='https://www.facebook.com/grupoagnostico/'>Agnótico</a>.",
@@ -15,6 +16,16 @@
     "links": [
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/Char0394"},
       {"name":"", "icon":"uk-icon-twitter", "url":"https://twitter.com/Chard003"}
+    ]
+  },
+  {
+    "id":"margaritax",
+    "name": "Denisse Margaritax Lara",
+    "description": "Amante de python y de los videojuegos, coordina la <a href='https://www.facebook.com/groups/cocos2dx.do'>comunidad de cocos2d-x</a>",
+    "image": "./assets/img/xvelopers/margaritax.jpg",
+    "links": [
+      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/huesitos"},
+      {"name":"", "icon":"uk-icon-twitter", "url":"https://twitter.com/dmlaramartin"}
     ]
   },
   {
