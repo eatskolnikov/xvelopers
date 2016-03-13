@@ -1,13 +1,22 @@
 [
   {
-    "id":"toribiox",
-    "name": "Enmanuel Toribiox",
-    "description": "Creador del site de Xvelopers, famoso por su participación en competencias locales de algoritmos, colaborador activo de la comunidad de Desarrollo de Software en República Dominicana, sentido del humor único, apasionado por los footers y fan #1 de <a href='http://www.pusheen.com'>Pusheen</a>. En su tiempo libre se dedica a esparcir su odiox por el mundox.",
-    "image": "./assets/img/xvelopers/toribiox.jpg",
+    "id":"luix",
+    "name": "Luix Ramirez",
+    "description": "Principal colaborador del proyecto <a href='http://emplea.do/credits'>emplea.do</a>. A él hablale de VNext y Xamarin Forms.",
+    "image": "./assets/img/xvelopers/luix.jpg",
     "links": [
-      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/eatskolnikov"}
+      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/luis-ramirez"}
     ]
   },
+    {
+      "id":"toribiox",
+      "name": "Enmanuel Toribiox",
+      "description": "Creador del site de Xvelopers, famoso por su participación en competencias locales de algoritmos, colaborador activo de la comunidad de Desarrollo de Software en República Dominicana, sentido del humor único, apasionado por los footers y fan #1 de <a href='http://www.pusheen.com'>Pusheen</a>. En su tiempo libre se dedica a esparcir su odiox por el mundox.",
+      "image": "./assets/img/xvelopers/toribiox.jpg",
+      "links": [
+        {"name":"", "icon":"uk-icon-github", "url":"https://github.com/eatskolnikov"}
+      ]
+    },
   {
     "id":"charlinx",
     "name": "Charlinx Agramonte",

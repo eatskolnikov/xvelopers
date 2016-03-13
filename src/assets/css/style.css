@@ -1,0 +1,6 @@
+.list-inline{
+  display:inline-flex;
+}
+.list-inline > li{
+  padding:5px;
+}
