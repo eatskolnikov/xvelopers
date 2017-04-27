@@ -98,7 +98,7 @@ module.exports = function(grunt) {
             main: {
                 files: [
                     {expand: true, flatten: true, src: ['src/.htaccess'], dest: 'build/', filter: 'isFile'},
-                    {expand: true, flatten: true, src: ['bower_components/uikit/fonts/*'], dest: 'build/assets/fonts', filter:'isFile'},
+                    {expand: true, flatten: true, src: ['bower_components/uikit/dist/fonts/*'], dest: 'build/assets/fonts', filter:'isFile'},
                     {expand: true, flatten: true, src: ['src/xvelopers.json'], dest: 'build/', filter:'isFile'}
                 ]
             }
