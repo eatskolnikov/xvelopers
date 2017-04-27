@@ -13,7 +13,7 @@ Install nodejs
 
 Open the command line and update npm
 --------------
-	npm install npm -g
+	npm install -g npm
 
 Install bower
 --------------
