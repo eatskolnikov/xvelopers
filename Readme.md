@@ -33,6 +33,10 @@ Install bower packages
 --------------
 	bower install
 
+Install uikit
+--------------
+	cd bower_components/uikit && npm install && cd ../..
+
 Building
 --------------
 	grunt build
