@@ -59,7 +59,7 @@ module.exports = function(grunt) {
             },
             app:{
                 src:['bower_components/jquery-2.1.4.min/index.js',
-                     'bower_components/uikit/js/uikit.min.js',
+                     'bower_components/uikit/dist/js/uikit.min.js',
                      'bower_components/react/react.min.js',
                      'bower_components/react/react-dom.min.js',
                      'src/react_components/js/xvelopers.js',
