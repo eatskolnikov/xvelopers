@@ -52,14 +52,14 @@ module.exports = function(grunt) {
                 separator: '\n'
             },
             css: {
-                src: ['bower_components/uikit/css/uikit.min.css',
-                      'bower_components/uikit/css/uikit.gradient.min.css',
+                src: ['bower_components/uikit/dist/css/uikit.min.css',
+                      'bower_components/uikit/dist/css/uikit.gradient.min.css',
                       'src/assets/css/style.css'],
                 dest: 'build/assets/css/main.css'
             },
             app:{
                 src:['bower_components/jquery-2.1.4.min/index.js',
-                     'bower_components/uikit/js/uikit.min.js',
+                     'bower_components/uikit/dist/js/uikit.min.js',
                      'bower_components/react/react.min.js',
                      'bower_components/react/react-dom.min.js',
                      'src/react_components/js/xvelopers.js',
@@ -98,7 +98,7 @@ module.exports = function(grunt) {
             main: {
                 files: [
                     {expand: true, flatten: true, src: ['src/.htaccess'], dest: 'build/', filter: 'isFile'},
-                    {expand: true, flatten: true, src: ['bower_components/uikit/fonts/*'], dest: 'build/assets/fonts', filter:'isFile'},
+                    {expand: true, flatten: true, src: ['bower_components/uikit/dist/fonts/*'], dest: 'build/assets/fonts', filter:'isFile'},
                     {expand: true, flatten: true, src: ['src/xvelopers.json'], dest: 'build/', filter:'isFile'}
                 ]
             }

@@ -26,6 +26,8 @@
     "grunt-notify": "^0.4.1",
     "grunt-remove": "^0.1.0",
     "grunt-string-replace": "^1.2.1",
+    "gulp": "^3.9.1",
+    "react-tools": "^0.13.3",
     "serve-static": "*"
   },
   "author": "Enmanuel Toribio"
