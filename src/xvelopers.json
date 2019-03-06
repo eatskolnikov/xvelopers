@@ -71,7 +71,9 @@
     "image": "./assets/img/xvelopers/pinedax.jpg",
     "links": [
       {"name":"", "icon":"uk-icon-facebook", "url":"https://goo.gl/rZySlu"},
-      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/ajpinedam"}
+      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/ajpinedam"},
+      {"name":"", "icon":"uk-icon-twitter", "url":"https://www.twitter.com/ajpinedam"},
+      {"name":"", "icon":"uk-icon-instagram", "url":"https://www.instagram.com/ajpinedam"}
     ]
   },
   {
@@ -120,7 +122,7 @@
   {
     "id": "vargax",
     "name": "Jorgex Vargas",
-    "description": "CEO de como 42 startups, entre ellas <a href='http://codemera.com/'>codemera</a>, <a href='http://coworking.do'>coworking</a> e <a href='http://www.imprimela.net'>imprimela</a>",
+    "description": "CEO de como 42 startups, entre ellas <a href='http://codemera.com/'>codemera</a>, <a href='http://coworking.do'>coworking</a> e <a href='http://www.imprimela.net'>imprimela</a>. Actualmente vive en España",
     "image": "./assets/img/xvelopers/jorgevargax.jpg",
     "links": [
       { "name":"", "icon":"uk-icon-github", "url":"https://github.com/elpargo"}
@@ -158,8 +160,20 @@
     "image": "./assets/img/xvelopers/raydeltox.jpg",
     "links": [
       {"name":"", "icon":"uk-icon-facebook", "url":"https://www.facebook.com/raydelto.hernandezperera"},
-      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/raydelto"}
+      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/raydelto"},
+      {"name":"", "icon":"uk-icon-twitter", "url":"https://twitter.com/raydelto"}
 	  ]
+  },
+  {
+    "id":"julissax",
+    "name": "Julissax Mateo",
+    "description": "Gerente informática de una startup, presentadora de radio, activista de Mujeres TIC, representante del país en múltiples eventos internacionales.",
+    "image": "./assets/img/xvelopers/julissax.jpg",
+    "links": [
+      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/julissammateo"},
+      {"name":"", "icon":"uk-icon-twitter", "url":"https://twitter.com/julissammateo"},
+      {"name":"", "icon":"uk-icon-instagram", "url":"https://instagram.com/julissammateo"}
+    ]
   },
   {
     "id":"olivox",
@@ -169,7 +183,7 @@
     "links": [
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/reneolivo"}
     ]
-  },
+  },  
   {
     "id":"riax",
     "name": "Riax Hemmat",
