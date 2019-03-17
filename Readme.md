@@ -32,7 +32,7 @@ These steps only affect the project. You need to execute them, then, from the pr
 	bower install
 
 ### Install uikit's dependencies
-*this step also generates uikit's html, css and javscript output*
+*this step also generates uikit's html, css and javascript output*
 
 	cd bower_components/uikit && npm install && cd ../..
 
