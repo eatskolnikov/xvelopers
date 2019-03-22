@@ -2,7 +2,7 @@
   {
     "id":"luix",
     "name": "Luix Ramirez",
-    "description": "Principal colaborador del proyecto <a href='http://emplea.do/credits'>emplea.do</a>. A él hablale de VNext y Xamarin Forms.",
+    "description": "Principal colaborador del proyecto <a href='http://emplea.do/credits'>emplea.do</a>. Experto en VNext y Xamarin Forms.",
     "image": "./assets/img/xvelopers/luix.jpg",
     "links": [
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/luis-ramirez"}
@@ -11,7 +11,7 @@
     {
       "id":"toribiox",
       "name": "Enmanuel Toribiox",
-      "description": "Creador del site de Xvelopers, famoso por su participación en competencias locales de algoritmos, colaborador activo de la comunidad de Desarrollo de Software en República Dominicana, sentido del humor único, apasionado por los footers y fan #1 de <a href='http://www.pusheen.com'>Pusheen</a>. En su tiempo libre se dedica a esparcir su odiox por el mundox.",
+      "description": "Creador del site de Xvelopers, famoso por su participación en competencias locales de algoritmos y por su colaboración activa en las comunidades de desarrollo de Software en República Dominicana.",
       "image": "./assets/img/xvelopers/toribiox.jpg",
       "links": [
         {"name":"", "icon":"uk-icon-github", "url":"https://github.com/eatskolnikov"}
@@ -20,7 +20,7 @@
   {
     "id":"charlinx",
     "name": "Charlinx Agramonte",
-    "description": "La dioxa del odiox, primera femina graduada de la carrera de Ingeniería de Software de INTEC. Junto con Renex se encarga de correr el grupo <a href='https://www.facebook.com/grupoagnostico/'>Agnóstico</a>.",
+    "description": "Primera mujer graduada de la carrera de Ingeniería de Software en República Dominicana (INTEC). Conjuntamente con el señor Renex Olivo se encarga de organizar la comunidad <a href='https://www.facebook.com/grupoagnostico/'>Agnóstico</a>. En 2019 se casó con Rendy Rosario, un diestro y emprendedor desarrollador de Xamarin.",
     "image": "./assets/img/xvelopers/charlinx.jpg",
     "links": [
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/Char0394"},
@@ -30,7 +30,7 @@
   {
     "id":"margaritax",
     "name": "Denisse Margaritax Lara",
-    "description": "Amante de python y de los videojuegos, coordina la <a href='https://www.facebook.com/groups/cocos2dx.do'>comunidad de cocos2d-x</a>",
+    "description": "Amante de Python y de los videojuegos, coordina la <a href='https://www.facebook.com/groups/cocos2dx.do'>comunidad de cocos2d-x</a> en República Dominicana y actualmente labora en una empresa de desarrollo de videojuegos.",
     "image": "./assets/img/xvelopers/margaritax.jpg",
     "links": [
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/huesitos"},
@@ -40,7 +40,7 @@
   {
     "id":"robertox",
     "name": "Robertox Abreu",
-    "description": "Director de la carrera de ISC en <a href='http://www.pucmm.edu.do/' title='Pricing Up Credits More and More'>PUCMM Santiago</a>, apasionado del gimnasio y la resolución de algoritmos.",
+    "description": "Director de la carrera de ISC en <a href='http://www.pucmm.edu.do/'>PUCMM</a>, hizo una maestría en Desarrollo de Sistemas Distribuídos en Holanda, apasionado por la resolución de algoritmos.",
     "image": "./assets/img/xvelopers/robertoxabreu.jpg",
     "links": [
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/rcabreu"}
@@ -49,7 +49,7 @@
   {
     "id": "noex",
     "name": "Noex Branagan",
-    "description": "Fanboy de Google, fue el primer dominicano en comprar un <a href='https://www.google.com/glass/start/'>Google Glass</a>. Es el responsable del <a href='https://plus.google.com/communities/101585921297215488952'>GDG Santo Domingo</a>.",
+    "description": "Coordinador de la comunidad de desarrolladores de <a href='https://plus.google.com/communities/101585921297215488952'>Google (GDG)</a> en República Dominicana. Ha impartido varios talleres en torno a desarrollo de aplicaciones Android. Fue el primer dominicano en adquirir un <a href='https://www.google.com/glass/start/'>Google Glass</a>.",
     "image": "./assets/img/xvelopers/noexbranagan.jpg",
     "links": [
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/eonoe"}
@@ -58,7 +58,7 @@
   {
     "id": "ahmex",
     "name": "Ahmex Ayub",
-    "description": "Emprendedor, fanático del gimnasio, apasionado (le gusta hablar alto), creador de varias empresas de desarrollo de software. Hoy es abanderado del trabajo remoto, trabaja en  <a href='https://www.rev.com/'>REV</a> ganando la funda. Ahora disfruta de su fortuna en Texas y viene de vez en cuando a RD a motivar a los jóvenes desarrolladores a buscar alternativas de progreso.",
+    "description": "Emprendedor, fundó la empresa de desarrollo de software NextMedia en 2004 cuando a penas tenía 21 años. De los pioneros en el trabajo remoto, en 2014 inició a trabajar remoto para la empresa  <a href='https://www.rev.com/'>REV</a> establecida en San Francisco. Actualmente vive en Estados Unidos y trabaja con una empresa relacionada al sector de las criptomonedas.",
     "image": "./assets/img/xvelopers/ahmedayubx.jpg",
     "links": [
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/amhed"}
@@ -67,7 +67,7 @@
   {
     "id": "pinedax",
     "name": "Andrés Pinedax",
-    "description": "Tiene tanto dinero que la cantidad necesaria para contarlo requiere dos <a href='https://goo.gl/sWTkHd'>bigIntegers</a>.",
+    "description": "Ha aportado a varias comunidades de desarrollo de Software. Pionero en trabajos remotos en República Dominicana. Desde 2013 trabajó remoto para una empresa Noruega. Actualmente vive en Montreal, Canadá, pero sigue en contacto con la comunidad de desarrollo de Software en República Dominicana y frecuentemente visita el país caribeño para eventos importantes de la comunidad.",
     "image": "./assets/img/xvelopers/pinedax.jpg",
     "links": [
       {"name":"", "icon":"uk-icon-facebook", "url":"https://goo.gl/rZySlu"},
@@ -79,7 +79,7 @@
   {
     "id": "carlox",
     "name": "Carlox Vásquez Polanco",
-    "description": "Java connoiseur extraordinaire. Cuando no lo ves hablando sobre las ventajas del UML y las metodologías ágiles, se encuentra maquinando el próximo Ban Day en Developers Dominicanos.",
+    "description": "Uno de los primeros moderadores del grupo en Facebook Developers Dominicanos. Experto en tecnologías Java. Promotor del buen uso UML y las metodologías ágiles.",
     "image": "./assets/img/xvelopers/carlox.jpg",
     "links": [
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/carlosvasquez"}
@@ -88,23 +88,23 @@
   {
     "id": "claudiox",
     "name": "ClauDiox Sanchez",
-    "description": "Es el jefe de Pinedax, enough said.",
+    "description": "Organizador de dos de los eventos de desarrollo de software de más impacto en República Dominicana: Code Camp y Caribbean Developers Conference. Dueño de la empresa MegSoft ha dado trabajo remoto bien remunerado a varios de los programadores dominicanos más talentosos",
     "image": "./assets/img/xvelopers/claudiox.jpg",
     "links": [
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/claudiosanchez"}
     ]
   },
   {
-    "id": "diox",
-    "name": "Diox",
-    "description": "Exiliado del gremio por nuestros pecadox, fue el xveloper original.",
-    "image": "./assets/img/xvelopers/diox.png",
+    "id": "eliax",
+    "name": "José Eliax",
+    "description": "Creador del blog tecnológico <a href='http://www.eliax.com'>www.eliax.com</a> el cual tuvo su punto de mayor visitas en 2008. Fue el primero en poner una X al final de su nombre, dando la inspiración para la idea del portal de Xvelopers.",
+    "image": "./assets/img/xvelopers/eliax.jpg",
     "links": []
   },
   {
     "id": "reyex",
     "name": "Efraín Reyex",
-    "description": "C# connoisseur extraordinaire.",
+    "description": "Experto programador de Javascript. Trabaja remoto para una empresa en San Francisco, California desde 2014. Actualmente vive en Austin, Texas, Estados Unidos.",
     "image": "./assets/img/xvelopers/efrainreyex.jpg",
     "links": [
       { "name":"", "icon":"uk-icon-github", "url":"https://github.com/EfrainReyes"}
@@ -113,7 +113,7 @@
   {
     "id": "minayax",
     "name": "Hector Minayax",
-    "description": "Un día, aburrido, se le ocurrió darle al botón de 'nuevo grupo' en facebook y ahora estamos <a href='https://www.facebook.com/groups/devdominicanos/'>aquí</a>.",
+    "description": "Emprendedor, en 2003 fue socio co-fundador de la empresa de desarrollo de Software MR2 Solutions. Creador la <a href='https://www.facebook.com/groups/devdominicanos/'>comunidad de desarrolladores de software dominicanos</a> más grande de la República Dominicana. Actualmente trabaja remoto para la empresa de Claudio Sánchez: Megsoft Solutions.",
     "image": "./assets/img/xvelopers/hectorminayax.jpg",
     "links": [
       { "name":"", "icon":"uk-icon-github", "url":"https://github.com/hminaya"}
@@ -122,7 +122,7 @@
   {
     "id": "vargax",
     "name": "Jorgex Vargas",
-    "description": "CEO de como 42 startups, entre ellas <a href='http://codemera.com/'>codemera</a>, <a href='http://coworking.do'>coworking</a> e <a href='http://www.imprimela.net'>imprimela</a>. Actualmente vive en España",
+    "description": "CEO de <a href='http://codemera.com/'>Codemera</a>: una empresa enfocada a la creación de soluciones utilizando la tecnología Python. Es muy activo en la comunidad de emprendedores de República Dominicana, ha participado en la organización de varios eventos para emprendedores, entre ellos: Startup Weekend y Aceleración Alfa. En 2014 Fue creador de uno de los co-working spaces más innovadores en su momento: href='http://coworking.do'>coworking.do</a> donde creció la idea para la empresa: <a href='http://www.imprimela.net'>imprimela</a>. Actualmente vive en España",
     "image": "./assets/img/xvelopers/jorgevargax.jpg",
     "links": [
       { "name":"", "icon":"uk-icon-github", "url":"https://github.com/elpargo"}
@@ -147,7 +147,7 @@
   {
     "id": "duartex",
     "name": "Omar Duartex",
-    "description": "El pana más easy-going, se fue para <a href='http://www.workinestonia.com/'>Estonia</a> con un trabajo remoto que se transformó en on-site.",
+    "description": "Organizador del Hackathon Hack-IT en 2014. Ingeniero Industrial de profesión, decidió darle un giro a su rumbo profesional y aprendió solo Javascript, luego consiguió un trabajo remoto en a href='http://www.workinestonia.com/'>Estonia</a> y actualmente vivo en dicho país que anteriormente formó parte de la unión soviética.",
     "image": "./assets/img/xvelopers/omarduartex.jpg",
     "links": [
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/omarduarte"}
@@ -156,7 +156,7 @@
   {
     "id":"raydeltox",
     "name": "Raydeltox Hernández",
-    "description": "Fiel creyente de Blackberry y profesor de vocación, ha dado clases en todas las universidades y en sus tiempos libres escribe <a href='http://amzn.com/1785283839'>libros</a>.",
+    "description": "Emprendedor, en 2004 fue socio fundador de la empresa <a href='http://www.gbh.com.do'>Soluciones Galada-María, Bonetti & Hernández</a>.Fue docente en varias universidades dominicanas. Fue el primer coordinador de la comunidad de <a href='http://www.cocos2d-x.org'>Cocos2d-x</a> en República Dominicana, tecnología sobre la cual publicó un <a href='http://amzn.com/1785283839'>libro</a>. Actualmente vive en Canadá.",
     "image": "./assets/img/xvelopers/raydeltox.jpg",
     "links": [
       {"name":"", "icon":"uk-icon-facebook", "url":"https://www.facebook.com/raydelto.hernandezperera"},
@@ -178,7 +178,7 @@
   {
     "id":"olivox",
     "name": "Renéx Olivo",
-    "description": "#LaVidaEnZen el más #vendezido, actualmente se la pasa de charla en charla y lo puedes encontrar en Bräu un día cualquiera en #chillax.",
+    "description": "Activo colaborador de las comunidades dominicanas. Dirigió junto con CharlinX la comunidad de agnósticos donde se presentaban distintas charlas en relación a diversas tecnologías.",
     "image": "./assets/img/xvelopers/renex.jpg",
     "links": [
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/reneolivo"}
@@ -196,7 +196,7 @@
   {
     "id": "mariuzzox",
     "name": "Rubens Mariuzzox",
-    "description": "Un pana bien, es tan bacano que cuando consiguió un trabajo remoto con <a href='http://x-team.com/'>X-TEAM</a> (not related to xvelopers), se mudó a Pedernales.",
+    "description": "Pioneros del trabajo remoto en República Dominicana. Actualmente labora para la empresa norteamericana <a href='http://x-team.com/'>X-TEAM</a> , actualmente vive en Pedernales.",
     "image": "./assets/img/xvelopers/rubensmariuzzox.jpg",
     "links": [
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/rmariuzzo"}
@@ -205,7 +205,7 @@
   {
     "id":"vivianx",
     "name": "Vivianx Guillen",
-    "description": "Co-Fundadora de <a href='http://codetiger.co/'>codetiger</a>, se graduó de economía y se lo encontró demasiado aburrido, así que ahora trabaja en python y se encarga de la comunidad de <a href='https://www.facebook.com/groups/782144668499347/'>pyladies</a>. No le digas nada malo de <a href='http://getuikit.com/'>uikit</a>.",
+    "description": "Co-Fundadora de <a href='http://codetiger.co/'>codetiger</a>,  graduada de la carrera de economía, decidió darle un giro a su rumbo profesional e inició su formación como desarrolladora de software. Actualmente labora como desarrolladora en tecnología Python y gestiona la comunidad de <a href='https://www.facebook.com/groups/782144668499347/'>PyLadies</a>.",
     "image": "./assets/img/xvelopers/vivianx.jpg",
     "links": [
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/viviangb"}
