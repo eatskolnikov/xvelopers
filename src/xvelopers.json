@@ -73,7 +73,9 @@
       {"name":"", "icon":"uk-icon-facebook", "url":"https://goo.gl/rZySlu"},
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/ajpinedam"},
       {"name":"", "icon":"uk-icon-twitter", "url":"https://www.twitter.com/ajpinedam"},
-      {"name":"", "icon":"uk-icon-instagram", "url":"https://www.instagram.com/ajpinedam"}
+      {"name":"", "icon":"uk-icon-instagram", "url":"https://www.instagram.com/ajpinedam"},
+      {"name":"", "icon":"uk-icon-youtube", "url":"https://www.youtube.com/watch?v=GU4tZT0b3qk"}
+      
     ]
   },
   {
@@ -91,7 +93,8 @@
     "description": "Organizador de dos de los eventos de desarrollo de software de más impacto en República Dominicana: Code Camp y Caribbean Developers Conference. Dueño de la empresa MegSoft ha dado trabajo remoto bien remunerado a varios de los programadores dominicanos más talentosos",
     "image": "./assets/img/xvelopers/claudiox.jpg",
     "links": [
-      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/claudiosanchez"}
+      {"name":"", "icon":"uk-icon-github", "url":"https://github.com/claudiosanchez"},
+      {"name":"", "icon":"uk-icon-youtube", "url":"https://www.youtube.com/watch?v=skKBf9Phows"}
     ]
   },
   {
@@ -99,7 +102,9 @@
     "name": "José Eliax",
     "description": "Creador del blog tecnológico <a href='http://www.eliax.com'>www.eliax.com</a> el cual tuvo su punto de mayor visitas en 2008. Fue el primero en poner una X al final de su nombre, dando la inspiración para la idea del portal de Xvelopers.",
     "image": "./assets/img/xvelopers/eliax.jpg",
-    "links": []
+    "links": [
+      { "name":"", "icon":"uk-icon-twitter", "url":"https://twitter.com/eliax"}
+    ]
   },
   {
     "id": "reyex",
@@ -172,7 +177,9 @@
     "links": [
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/julissammateo"},
       {"name":"", "icon":"uk-icon-twitter", "url":"https://twitter.com/julissammateo"},
-      {"name":"", "icon":"uk-icon-instagram", "url":"https://instagram.com/julissammateo"}
+      {"name":"", "icon":"uk-icon-instagram", "url":"https://instagram.com/julissammateo"},
+      {"name":"", "icon":"uk-icon-youtube", "url":"https://www.youtube.com/watch?v=K9hmAC56S2U"}
+      
     ]
   },
   {
@@ -210,5 +217,15 @@
     "links": [
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/viviangb"}
     ]
-  }
+  },
+  {
+    "id":"gavilanx",
+    "name": "Felipe Gavilanx",
+    "description": "Experto en tecnologías de Microsoft: .NET y Xamarin. Ha hecho grandes aportes a la comunidad mediante la creación de  <a href='https://www.youtube.com/gavilanch2'>video tutoriales gratuitos de programación</a>. Fue el primer dominicano en crear cursos para la plataforma <a href='https://www.udemy.com/user/felipegaviln/''>Udemy</a>.",
+    "image": "./assets/img/xvelopers/gavilanx.jpg",
+    "links": [
+      {"name":"", "icon":"uk-icon-youtube", "url":"https://www.youtube.com/gavilanch2"},
+      {"name":"", "icon":"uk-icon-twitter", "url":"https://www.twitter.com/gavilanch"}
+    ]
+  }  
 ]
