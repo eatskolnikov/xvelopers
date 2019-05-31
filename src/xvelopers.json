@@ -227,5 +227,17 @@
       {"name":"", "icon":"uk-icon-youtube", "url":"https://www.youtube.com/gavilanch2"},
       {"name":"", "icon":"uk-icon-twitter", "url":"https://www.twitter.com/gavilanch"}
     ]
-  }  
+  },
+  
+  {
+    "id":"elenalopex",
+    "name": "Elena LopeX",
+    "description": "Experta en base de datos. Ha hecho grandes aportes de tutoriales de SQL gratis en youtube y <a href='https://www.udemy.com/user/teresa-elena-lopez-montilla/'>cursos en Udemy</a>",
+    "image": "./assets/img/xvelopers/elenalopex.jpg",
+    "links": [
+      {"name":"", "icon":"uk-icon-youtube", "url":"https://www.youtube.com/user/ingelenalopez"},
+      {"name":"", "icon":"uk-icon-twitter", "url":"https://twitter.com/ing_elenalopez"},
+      {"name":"", "icon":"uk-icon-linkedin", "url":"https://linkedin.com/in/ingelenalopez"}
+    ]
+  } 
 ]
