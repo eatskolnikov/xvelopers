@@ -127,7 +127,7 @@
   {
     "id": "vargax",
     "name": "Jorgex Vargas",
-    "description": "CEO de <a href='http://codemera.com/'>Codemera</a>: una empresa enfocada a la creación de soluciones utilizando la tecnología Python. Es muy activo en la comunidad de emprendedores de República Dominicana, ha participado en la organización de varios eventos para emprendedores, entre ellos: Startup Weekend y Aceleración Alfa. En 2014 Fue creador de uno de los co-working spaces más innovadores en su momento: href='http://coworking.do'>coworking.do</a> donde creció la idea para la empresa: <a href='http://www.imprimela.net'>imprimela</a>. Actualmente vive en España",
+    "description": "CEO de <a href='http://codemera.com/'>Codemera</a>: una empresa enfocada a la creación de soluciones utilizando la tecnología Python. Es muy activo en la comunidad de emprendedores de República Dominicana, ha participado en la organización de varios eventos para emprendedores, entre ellos: Startup Weekend y Aceleración Alfa. En 2014 Fue creador de uno de los co-working spaces más innovadores en su momento: <a href='http://coworking.do'>coworking.do</a> donde creció la idea para la empresa: <a href='http://www.imprimela.net'>imprimela</a>. Actualmente vive en España",
     "image": "./assets/img/xvelopers/jorgevargax.jpg",
     "links": [
       { "name":"", "icon":"uk-icon-github", "url":"https://github.com/elpargo"}
@@ -152,7 +152,7 @@
   {
     "id": "duartex",
     "name": "Omar Duartex",
-    "description": "Organizador del Hackathon Hack-IT en 2014. Ingeniero Industrial de profesión, decidió darle un giro a su rumbo profesional y aprendió solo Javascript, luego consiguió un trabajo remoto en a href='http://www.workinestonia.com/'>Estonia</a> y actualmente vivo en dicho país que anteriormente formó parte de la unión soviética.",
+    "description": "Organizador del Hackathon Hack-IT en 2014. Ingeniero Industrial de profesión, decidió darle un giro a su rumbo profesional y aprendió solo Javascript, luego consiguió un trabajo remoto en <a href='http://www.workinestonia.com/'>Estonia</a> y actualmente vivo en dicho país que anteriormente formó parte de la unión soviética.",
     "image": "./assets/img/xvelopers/omarduartex.jpg",
     "links": [
       {"name":"", "icon":"uk-icon-github", "url":"https://github.com/omarduarte"}
